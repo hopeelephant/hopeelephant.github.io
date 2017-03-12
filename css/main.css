@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.photo{
+  width: 100vw;
+  height: 100vh;
+  background: url(../images/w.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.photo-1{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(31, 119, 193, 0.21);
+}
+h2{
+  padding-top: 100px;
+  padding-left: 100px;
+  color: #e21258;
+  font-size: 36px;
+}
+/*.photo-left{
+  float: left;
+}*/
+/*.photo-left div:nth-child(1){
+  width: 800px;
+  background: url(../images/a.jpg);
+  background-size: cover;
+}
+.photo-right{
+  float: right;
+}
+img{
+  width: 400px;
+  border-radius: 60%;
+  position: relative;
+  z-index: -999;
+}*/
