@@ -12,7 +12,11 @@ header {
   background: #f16b99;
   text-align: center;
   color: #fff;
+  margin-bottom: 20px;
 
+}
+footer{
+  margin-top: 12px;
 }
 .footer{
   height: 85px;
