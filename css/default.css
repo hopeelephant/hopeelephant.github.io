@@ -1,0 +1,31 @@
+.container{
+  width: 960px;
+  margin: 0 auto;
+}
+.header {
+  height: 85px;
+  line-height: 85px;
+  background: #f16b99;
+  text-align: center;
+  color: #fff;
+
+}
+.footer{
+  height: 85px;
+  line-height: 85px;
+  background: #000;
+  text-align: center;
+  color: #fff;
+}
+.footer a{
+  color: #f16b99;
+  font-size: 0.8em;
+}
+h3{
+  color: #f16b99;
+  margin-bottom: 15px;
+}
+
+p{
+  line-height: 2.5;
+}
